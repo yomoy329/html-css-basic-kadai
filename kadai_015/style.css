@@ -1,8 +1,5 @@
-.decoration{
+.body{
   font-family: "Arial", "Meiryo", sans-serif;
-}
-
-P{
   font-size: 20px;
 }
 
@@ -15,12 +12,12 @@ P{
 }
 
 h1{
-  font-family: "Noto Sans JP", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
   font-size: 2rem;
-  letter-spacing: 2.4rem;
+  letter-spacing: 1.2em;
   text-shadow: 3px 3px 3px  black;
   border-bottom: 3px solid rgb(115, 115, 114);
 }
